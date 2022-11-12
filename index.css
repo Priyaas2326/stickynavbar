@@ -1,0 +1,51 @@
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left
+
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align:right;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+li a:hover {
+  background-color: #111;
+}
+p{
+  display: inline-block;
+  width: 1020px;
+  font-size: large;
+}
+
+img{
+  display:block;
+    align-items:right;
+    border-color: #111;
+    width:400px;
+    height:300px;
+    
+}
+button{
+  text-align:center;
+  display:inline-block;
+    background-color: black;
+    color: white;
+    align-items:baseline;
+    block-size:50px;
+    width: 100px;
+
+}
